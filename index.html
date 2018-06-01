@@ -2,10 +2,38 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Effective JavaScript: Frogger</title>
+    <title>Arcade Game: Frogger</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <h2 class="lives">Lives: <span id="lives"></span></h2>
+    <h2 class="points">Points: <span id="points"></span></h2>
+    <div class="modal" id="winning-modal">
+      <div class="modal-content">
+        <div class="winning-modal-header">
+          <h2>Congratulations, you won!!</h2>
+        </div>
+        <div class="modal-body">
+          <img class='win-img' src="images/char-boy.png" alt="Game Character">
+        </div>
+        <div class="modal-footer">
+          <button id="win-btn" class="play-again" type="button" name="button">Play Again</button>
+        </div>
+      </div>
+    </div>
+    <div class="modal" id="losing-modal">
+      <div class="modal-content">
+        <div class="losing-modal-header">
+          <h2>Oh no! You're out of lives...</h2>
+        </div>
+        <div class="modal-body">
+          <img class="lose-img" src="images/char-boy.png" alt="Game Character">
+        </div>
+        <div class="modal-footer">
+          <button id="lose-btn" class="play-again" type="button" name="button">Try Again?</button>
+        </div>
+      </div>
+    </div>
     <script src="js/resources.js"></script>
     <script src="js/app.js"></script>
     <script src="js/engine.js"></script>

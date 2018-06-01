@@ -1,6 +1,20 @@
-frontend-nanodegree-arcade-game
-===============================
+# Memory Game Project
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Introduction
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+An Arcade project completed for my course with Udacity
+
+## How to play the game
+
+Control the character by using the arrow keys on your keyboard. The aim is to reach the water without being touched by the enemy (the bugs). Each time you reach the water you gain 5 points. Every time you touch a bug you lose a life. Reach 50 points and you win the game.
+
+## Screenshots
+
+![Arcade Game Screenshot](/images/arcadegame.png "Arcade Game Screenshot")
+[Arcade Game Screenshot](/images/arcadegame_1.png "Arcade Game Screenshot")
+## Contributing
+
+Feel free to contribute:
+1. Fork the repo or clone the project
+2. Create a branch
+3. Submit a pull request so changes can be reviewed
