@@ -2,7 +2,13 @@
 
 ## Introduction
 
-An Arcade project completed for my course with Udacity
+An Arcade project completed for my course with Udacity.
+
+## Usage
+
+1. Download or clone the repo
+2. Open index.html in your browser
+3. Jouer.
 
 ## How to play the game
 
@@ -12,6 +18,7 @@ Control the character by using the arrow keys on your keyboard. The aim is to re
 
 ![Arcade Game Screenshot](/images/arcadegame.png "Arcade Game Screenshot")
 ![Arcade Game Screenshot](/images/arcadegame_1.png "Arcade Game Screenshot")
+
 ## Contributing
 
 Feel free to contribute:
