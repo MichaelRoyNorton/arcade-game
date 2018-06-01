@@ -11,7 +11,7 @@ Control the character by using the arrow keys on your keyboard. The aim is to re
 ## Screenshots
 
 ![Arcade Game Screenshot](/images/arcadegame.png "Arcade Game Screenshot")
-[Arcade Game Screenshot](/images/arcadegame_1.png "Arcade Game Screenshot")
+![Arcade Game Screenshot](/images/arcadegame_1.png "Arcade Game Screenshot")
 ## Contributing
 
 Feel free to contribute:
